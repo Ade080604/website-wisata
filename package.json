@@ -1,0 +1,11 @@
+{
+  "name": "ade-elson-kurniawan-web",
+  "version": "1.0.0",
+  "description": "tugas pbw bung hatta",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ade elson kurniawan",
+  "license": "ISC"
+}
